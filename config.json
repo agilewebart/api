@@ -41,19 +41,19 @@
     "difficulty": [
         {
             "label": "Easy",
-            "id": "1"
+            "id": "easy"
         },
         {
             "label": "Normal",
-            "id": "2"
+            "id": "normal"
         },
         {
             "label": "Hard",
-            "id": "3"
+            "id": "hard"
         },
         {
             "label": "Extreme",
-            "id": "4"
+            "id": "extreme"
         }
     ]
 }

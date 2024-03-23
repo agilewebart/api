@@ -1,0 +1,82 @@
+[
+    {
+        "id": "000900001",
+        "question": [
+            {
+                "type": "table",
+                "context": [
+                    [
+                        "$\\sqrt{x^2+y^2}$",
+                        "$\\sqrt{x^2+y^2}$",
+                        "$\\sqrt{x^2+y^2}$",
+                        "$\\sqrt{x^2+y^2}$",
+                        "$\\sqrt{x^2+y^2}$",
+                        "$\\sqrt{x^2+y^2}$",
+                        "$\\sqrt{x^2+y^2}$",
+                        "$\\sqrt{x^2+y^2}$",
+                        "$\\sqrt{x^2+y^2}$",
+                        "$\\sqrt{x^2+y^2}$",
+                        "$\\sqrt{x^2+y^2}$"
+                    ],
+                    [
+                        [
+                            "$x\\times y$",
+                            2,
+                            5,
+                            6,
+                            7,
+                            9,
+                            2,
+                            5,
+                            6,
+                            9,
+                            0
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "options": [
+            [
+                {
+                    "type": "latex",
+                    "context": "Option-1"
+                }
+            ],
+            [
+                {
+                    "type": "latex",
+                    "context": "Option-2"
+                }
+            ],
+            [
+                {
+                    "type": "latex",
+                    "context": "Option-3"
+                }
+            ],
+            [
+                {
+                    "type": "latex",
+                    "context": "Option-4"
+                }
+            ]
+        ],
+        "solutions": [
+            [
+                {
+                    "type": "latex",
+                    "context": "Solution-1"
+                }
+            ]
+        ],
+        "answer": "",
+        "vlink": "",
+        "info": {
+            "dateCreated": 1711107860850,
+            "difficulty": "normal",
+            "className": "09",
+            "resource": "CBSE"
+        }
+    }
+]

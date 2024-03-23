@@ -1,0 +1,53 @@
+[
+    {
+        "id": "000700001",
+        "question": [
+            {
+                "type": "svg",
+                "context": "<svg viewBox='0 0 200 100'><g fill='#121212' stroke='black' stroke-width='2'><circle r='20%' cx='50%' cy='50%' opacity='.5'/><circle r='20%' cx='65%' cy='50%' opacity='0.5'/></g></svg>"
+            }
+        ],
+        "options": [
+            [
+                {
+                    "type": "latex",
+                    "context": "Option-1"
+                }
+            ],
+            [
+                {
+                    "type": "latex",
+                    "context": "Option-2"
+                }
+            ],
+            [
+                {
+                    "type": "latex",
+                    "context": "Option-3"
+                }
+            ],
+            [
+                {
+                    "type": "latex",
+                    "context": "Option-4"
+                }
+            ]
+        ],
+        "solutions": [
+            [
+                {
+                    "type": "latex",
+                    "context": "Solution-1"
+                }
+            ]
+        ],
+        "answer": "",
+        "vlink": "",
+        "info": {
+            "dateCreated": 1711095691883,
+            "difficulty": "easy",
+            "className": "09",
+            "resource": "CBSE"
+        }
+    }
+]

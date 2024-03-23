@@ -1,0 +1,10 @@
+{
+    "\\or": "\\\\\\textcolor{#adb5bd}{\\textit{or, }}",
+    "\\ds": "\\displaystyle",
+    "\\lg": "\\footnotesize",
+    "\\md": "\\scriptsize",
+    "\\sm": "\\sixptsize",
+    "\\xs": "\\tiny",
+    "\\ss": "\\scriptstyle",
+    "\\sss": "\\scriptscriptstyle"
+}

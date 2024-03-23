@@ -1,18 +1,57 @@
 [
     {
-        "label": "\\log",
-        "title": "Log"
+        "label": "\\ds\\frac xy",
+        "copy": "\\\\ds",
+        "title": "Display style"
+    },
+    {
+        "label": "\\lg Large text \\text{ বড় হরফ}",
+        "copy": "\\\\lg",
+        "title": "Foot note size"
+    },
+    {
+        "label": "\\md Medium text \\text{ মাঝারি হরফ}",
+        "copy": "\\\\md",
+        "title": "Script size"
+    },
+    {
+        "label": "\\sm Small text \\text{ ছোট হরফ}",
+        "copy": "\\\\sm",
+        "title": "Six pt size"
+    },
+    {
+        "label": "\\tiny Tiny text \\text{ ক্ষুদ্র হরফ}",
+        "copy": "\\\\xs",
+        "title": "Tiny"
+    },
+    {
+        "label": "\\ss c = \\pm\\sqrt{a^2 + b^2}",
+        "copy": "\\\\ss",
+        "title": "Script style"
+    },
+    {
+        "label": "\\sss c = \\pm\\sqrt{a^2 + b^2}",
+        "copy": "\\\\sss",
+        "title": "Script script style"
+    },
+    {
+        "label": "\\boxed{\\text{Boxed equation}}",
+        "copy": "\\\\boxed{}",
+        "title": "Boxed"
     },
     {
         "label": "\\sum_{i=1}^n",
+        "copy": "\\\\sum_{i=1}^n",
         "title": "Summation"
     },
     {
         "label": "c = \\pm\\sqrt{a^2 + b^2}",
+        "copy": "c = \\\\pm\\\\sqrt{a^2 + b^2}",
         "title": "Squreroot"
     },
     {
         "label": "\\int_0^1",
+        "copy": "\\\\int_0^1",
         "title": "Integration"
     }
 ]

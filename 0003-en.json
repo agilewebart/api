@@ -1,0 +1,57 @@
+[
+    {
+        "id": "000300001",
+        "question": [
+            {
+                "type": "latexhtml",
+                "context": "Select correct answer</b> for a $\\footnotesize 3 \\times 2$ matrix, whose elements are given by $\\\\\\footnotesize a_{ij} = \\frac12|i-3j|$."
+            }
+        ],
+        "options": [
+            [
+                {
+                    "type": "latex",
+                    "context": "\\scriptsize A= \\begin{bmatrix}1&\\frac52\\\\[.2em]\\frac12&2\\\\[.2em]0&\\frac32\\end{bmatrix}"
+                }
+            ],
+            [
+                {
+                    "type": "latex",
+                    "context": "\\scriptsize A= \\begin{bmatrix}1&\\frac52\\\\[.2em]\\frac12&2\\\\[.2em]0&\\frac32\\end{bmatrix}"
+                }
+            ],
+            [
+                {
+                    "type": "latex",
+                    "context": "\\scriptsize A= \\begin{bmatrix}1&\\frac52\\\\[.2em]\\frac12&2\\\\[.2em]0&\\frac32\\end{bmatrix}"
+                }
+            ],
+            [
+                {
+                    "type": "latex",
+                    "context": "\\scriptsize A= \\begin{bmatrix}1&\\frac52\\\\[.2em]\\frac12&2\\\\[.2em]0&\\frac32\\end{bmatrix}"
+                }
+            ]
+        ],
+        "solutions": [
+            [
+                {
+                    "type": "latexhtml",
+                    "context": "In general a $\\footnotesize3\\times2$ matrix is given by$\\sixptsize\\\\A=\\begin{bmatrix}a_{11}&a_{12} \\\\ a_{21}&a_{22}\\\\a_{31}&a_{32}\\end{bmatrix}$"
+                },
+                {
+                    "type": "latex",
+                    "context": "Solution-1"
+                }
+            ]
+        ],
+        "answer": "B",
+        "vlink": "tIdNeoHniEY",
+        "info": {
+            "dateCreated": 1711000476535,
+            "difficulty": "normal",
+            "className": "10",
+            "resource": "CBSE"
+        }
+    }
+]

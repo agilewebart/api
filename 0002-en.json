@@ -1,0 +1,57 @@
+[
+    {
+        "id": "000200001",
+        "question": [
+            {
+                "type": "latex",
+                "context": "\\lg\\log\\{\\frac17(x+y)\\}=\\frac12(\\log x+\\log y)\\text{{\\sm হলে,}}\\\\[.7em]\\ds\\frac xy+\\frac yx=\\text{\\sm কত ?}"
+            }
+        ],
+        "options": [
+            [
+                {
+                    "type": "latex",
+                    "context": "\\footnotesize 46"
+                }
+            ],
+            [
+                {
+                    "type": "latex",
+                    "context": "\\footnotesize 47"
+                }
+            ],
+            [
+                {
+                    "type": "latex",
+                    "context": "\\footnotesize 48"
+                }
+            ],
+            [
+                {
+                    "type": "latex",
+                    "context": "\\footnotesize 49"
+                }
+            ]
+        ],
+        "solutions": [
+            [
+                {
+                    "type": "latex",
+                    "context": "\\lg\\log\\{\\frac17(x+y)\\}=\\frac12(\\log x+\\log y)"
+                },
+                {
+                    "type": "latex",
+                    "context": "\\ss\\or2\\log(\\frac{x+y}{7})=\\log xy \\or (\\frac{x+y}{7})^2=xy\\or x^2+2xy+y^2=49xy\\or x^2+y^2=47xy\\or \\boxed{\\lg\\frac xy+\\frac yx= 47}"
+                }
+            ]
+        ],
+        "answer": "B",
+        "vlink": "tIdNeoHniEY",
+        "info": {
+            "dateCreated": 1711010034538,
+            "difficulty": "normal",
+            "className": "",
+            "resource": ""
+        }
+    }
+]
